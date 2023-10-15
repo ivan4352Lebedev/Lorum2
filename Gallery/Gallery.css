@@ -1,0 +1,25 @@
+.Gallery{
+    max-width: 1440px;
+    margin: 0 auto;
+}
+.gallerry-photo{
+    color: var(--Gray-4, #BDBDBD);
+    font-family: Roboto;
+    font-size: 64px;
+    margin-top: 63px;
+    display: block;
+    padding-left: 135px;
+    height: 128px;
+    width: 203px;
+}
+.gallery-img{
+    width: 210px;
+    height: 260px;
+    margin: 30px;
+}
+.gallery-container{
+    padding-bottom: 233px;
+
+}
+
+

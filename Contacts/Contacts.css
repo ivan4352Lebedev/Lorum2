@@ -1,0 +1,61 @@
+.Contacts{
+    max-width: 1440px;
+    margin: 0 auto;
+}
+.big-contacts{
+    color: #BDBDBD;
+    font-family: Roboto;
+    font-size: 64px;
+    width: 338px;
+    padding-left: 135px;
+}
+.contacts-item{
+    color: #333;
+    font-family: Roboto;
+    font-size: 18px;
+    margin-bottom: 44px;
+    padding-left: 135px;
+}
+.contacts-list{
+    list-style: none;
+    width: 280px;
+    /* padding-bottom: 30px; */
+    /* padding-left: 135px; */
+}
+.form-wrapper{
+    width: 500px;
+    margin-bottom: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+.textarea{
+    resize: none;
+    margin-left: 10px;
+}
+.form-wrapper1{
+    margin-bottom: 30px;
+    display: flex;
+
+}
+.Email{
+padding-left: 135px;
+  
+}
+.me{
+    color: var(--Gray-4, #BDBDBD);
+    font-family: Roboto;
+    font-size: 44px;
+    padding-left: 135px;
+
+}
+.btn-email{
+    background-color: #BDBDBD;
+    font-family: Roboto;
+    font-size: 18px;
+    width: 90px;
+    height: 40px;
+    margin-bottom: 30px;
+    border-radius: 5px ;
+    text-align: center;
+    margin-left: 50px;
+}

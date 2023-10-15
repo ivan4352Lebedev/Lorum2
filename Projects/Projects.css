@@ -1,0 +1,33 @@
+.Projects{
+  max-width: 1440px;
+  margin: 0 auto;
+}
+.projects-text{
+    color: var(--Gray-4, #BDBDBD);
+    font-family: Roboto;
+    font-size: 64px;
+    width: 277px;
+    padding-left: 135px;
+}
+.Sample-Project{
+    display: flex;
+    width: 1170px;
+    height: 435px;
+    margin-bottom: 60px;
+    padding-left: 125px;
+}
+.big-sample{
+    color: var(--Gray-4, #BDBDBD);
+    font-family: Roboto;
+    font-size: 40px;
+    margin-left: 30px;
+}
+.sample-text{
+    color: #000;
+    font-family: Roboto;
+    font-size: 16px;
+    margin-left: 30px;
+}
+.sample-container{
+    margin-top: 90px;
+}
